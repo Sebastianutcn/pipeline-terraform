@@ -1,5 +1,5 @@
 # AWS CodePipeline created using Terraform
-This infrastructure is used for my final diploma project and provides all the resources needed for a pipeline.
+This infrastructure is used for my final diploma project and provides all the resources needed for a pipeline in AWS.
 
 **Files:**
 1. main.tf is used to create the pipeline and IAM roles for it. All the stages are put together.
