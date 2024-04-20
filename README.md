@@ -1,4 +1,4 @@
-# AWS CodePipeline created using Terraform
+# AWS CodePipeline created using Terraform 
 This infrastructure is used for my final diploma project and provides all the resources needed for a pipeline in AWS.
 
 **Files:**
