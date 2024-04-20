@@ -8,6 +8,6 @@ This infrastructure is used for my final diploma project and provides all the re
 4. install-code-deploy-agent.sh is a script used to install the agent for CodeDeploy on EC2 instance.
 
 # Installation
- - terraform init
+ - terraform init 
  - terraform plan -out plan.out
  - terraform apply plan.out --auto-approve
